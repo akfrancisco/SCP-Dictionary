@@ -22,6 +22,7 @@ Link to privacy policy of third party service providers used by the app
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 *   [AppLovin](https://www.applovin.com/privacy/)
 *   [AdColony](https://www.adcolony.com/privacy-policy/)
+*   [MoPub](http://www.mopub.com/legal/supply-side-policy/)
 
 **Log Data**
 
